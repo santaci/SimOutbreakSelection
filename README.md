@@ -1,5 +1,7 @@
 # SimOutbreakSelection
 
+[![DOI](https://zenodo.org/badge/213929000.svg)](https://doi.org/10.5281/zenodo.15634447)
+
 #### !!! ``SOS`` is still a WIP.  Please be mindful that there are paths that require the user to manually change. !!!
 
 ## Table of Contents
